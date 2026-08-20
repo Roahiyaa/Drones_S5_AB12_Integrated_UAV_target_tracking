@@ -12,9 +12,9 @@
 |---|---|---|
 | Siddharth sankar U | CB.SC.U4AIE24151 | cb.sc.u4aie24151@cb.students.amrita.edu |
 | E G Aadhijith | CB.SC.U4AIE24113 | cb.sc.u4aie24113@cb.students.amrita.edu |
-| Roahiyaa | CB.SC.U4AIE240__ | cb.sc.u4aie241__@cb.students.amrita.edu |
+| Roahiyaa | CB.SC.U4AIE24043 | cb.sc.u4aie24043@cb.students.amrita.edu |
 | Vishnu | CB.SC.U4AIE24159 | cb.sc.u4aie24159@cb.students.amrita.edu |
-| Architha Rajasekar | CB.SC.U4AIE240__ | cb.sc.u4aie240__@cb.students.amrita.edu |
+| Architha Rajasekar | CB.SC.U4AIE24009 | cb.sc.u4aie24009@cb.students.amrita.edu |
 
 ---
 
